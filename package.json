@@ -1,0 +1,42 @@
+{
+  "name": "is-child-process",
+  "version": "0.0.0",
+  "description": "Checks whether a value is child process result, which in case is more specific Node.js EventEmitter.",
+  "repository": "tunnckoCore/is-child-process",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "is-node-emitter": "^1.0.2",
+    "isarray": "0.0.1"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0",
+    "dush": "^1.3.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "check",
+    "child",
+    "child-process",
+    "cp",
+    "emitter",
+    "event",
+    "events",
+    "exec",
+    "node",
+    "nodejs",
+    "process",
+    "spawn",
+    "stream",
+    "util",
+    "utility",
+    "utils",
+    "validate"
+  ]
+}
