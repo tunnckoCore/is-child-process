@@ -1,6 +1,6 @@
 {
   "name": "is-child-process",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Checks whether a value is child process result, which in case is more specific Node.js EventEmitter. Browserify-ready.",
   "repository": "tunnckoCore/is-child-process",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
