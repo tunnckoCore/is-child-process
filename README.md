@@ -71,7 +71,7 @@ But before doing anything, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) 
 [codeclimate-img]: https://img.shields.io/codeclimate/github/tunnckoCore/is-child-process.svg
 
 [travis-url]: https://travis-ci.org/tunnckoCore/is-child-process
-[travis-img]: https://img.shields.io/travis/tunnckoCore/is-child-process.svg
+[travis-img]: https://img.shields.io/travis/tunnckoCore/is-child-process/master.svg
 
 [coveralls-url]: https://coveralls.io/r/tunnckoCore/is-child-process
 [coveralls-img]: https://img.shields.io/coveralls/tunnckoCore/is-child-process.svg
